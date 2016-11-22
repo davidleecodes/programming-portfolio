@@ -24,16 +24,6 @@ var ProjectView = Backbone.View.extend({
 		this.bus = options.bus;
 	},
 
-	events:{
-		"click img": "project_clicked"
-	},
-
-	project_clicked: function(e){
-		console.log("clicked project",this);
-		console.log(this.model.get("url"));
-		router.navigate("projects/"+this.model.get("url"),{trigger: true});
-	},
-
 	render: function(){
 		console.log("render project model");
 		var template = _.template($("#thumbnailTemplate").html());
