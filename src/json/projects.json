@@ -1,0 +1,28 @@
+[
+	{
+		"folder":"design-portfolio",
+		"thumbnail":"design-portfolio_thumb.jpg",
+		"title":"Design Portfolio",
+		"description":"my design portfolio",
+		"source":"https://github.com/concoctionfactory/design-portfolio",
+		"view":"https://concoctionfactory.github.io/design-portfolio/"
+	},
+	{
+		"folder":"canal-st",
+		"thumbnail":"canal-st_thumb.jpg",
+		"title":"Canal St",
+		"description":"canal st noodle spots",
+		"source":"https://github.com/concoctionfactory/design-portfolio",
+		"view":"https://concoctionfactory.github.io/design-portfolio/#projects/undo"
+	},
+	{
+		"folder":"cross",
+		"thumbnail":"cross_thumb.jpg",
+		"title":"Cross",
+		"description":"frogger-ish game",
+		"source":"https://github.com/concoctionfactory/design-portfolio",
+		"view":"https://concoctionfactory.github.io/design-portfolio/#projects/undo"
+	}
+
+
+]
