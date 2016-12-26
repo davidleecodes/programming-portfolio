@@ -1,15 +1,8 @@
-#Resume Project
+#Programming Portfolio
 
-This is a portfolio Site, created using html css and some bootstrap
-
-## Install
-
-`$ git clone https://github.com/concoctionfactory/udacity_FEND_P2_portfolioSite.git`
+This portfolio showcases some of the projects that I completed in the Udacity program. The portfolio was one of the projects that was given at beginning of the Udacity program. Since completing the program, I wanted to revisit the project and to update it. But  I decided to rewrite the portfolio using my other portfolio project a base. This portfolio uses backbone and underscore.
 
 
-## Run
+## View the github-pages version here
 
-run index.html in web browser
-
-# design-Portfolio
-# programming-portfolio
+https://concoctionfactory.github.io/programming-portfolio/
