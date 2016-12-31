@@ -2,7 +2,7 @@
 var Project = Backbone.Model.extend({
 	idAttribute:"url",
 	defaults:function(){
-
+		console.log("hits");
 		return{
 
 		};

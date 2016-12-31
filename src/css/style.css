@@ -43,6 +43,8 @@ a:focus, a:hover {
 	display: flex;
 	flex-direction: column;
 	position: fixed;
+	position: sticky;
+	top: 0px;
 }
 
 .sidebar-container .nav{
