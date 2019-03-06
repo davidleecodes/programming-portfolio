@@ -7,6 +7,14 @@
 		"source":"https://github.com/concoctionfactory/design-portfolio",
 		"view":"https://concoctionfactory.github.io/design-portfolio/"
 	},
+		{
+		"folder":"design-portfolio",
+		"thumbnail":"design-portfolio_thumb.jpg",
+		"title":"Design Portfolio<br>(react version)",
+		"description":"my design portfolio",
+		"source":"https://github.com/concoctionfactory/react-design-portfolio",
+		"view":"https://calm-caverns-71750.herokuapp.com/"
+	},
 	{
 		"folder":"canal-st",
 		"thumbnail":"canal-st_thumb.jpg",
