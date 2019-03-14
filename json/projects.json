@@ -1,36 +1,42 @@
 [
-	{
-		"folder":"design-portfolio",
-		"thumbnail":"design-portfolio_thumb.jpg",
-		"title":"Design Portfolio",
-		"description":"my design portfolio",
-		"source":"https://github.com/concoctionfactory/design-portfolio",
-		"view":"https://concoctionfactory.github.io/design-portfolio/"
-	},
-		{
-		"folder":"design-portfolio",
-		"thumbnail":"design-portfolio_thumb.jpg",
-		"title":"Design Portfolio<br>(react version)",
-		"description":"my design portfolio",
-		"source":"https://github.com/concoctionfactory/react-design-portfolio",
-		"view":"https://calm-caverns-71750.herokuapp.com/"
-	},
-	{
-		"folder":"canal-st",
-		"thumbnail":"canal-st_thumb.jpg",
-		"title":"Canal St",
-		"description":"canal st noodle spots",
-		"source":"https://github.com/concoctionfactory/udacity_FEND_P6-1_neighborhood-map",
-		"view":"http://concoctionfactory.github.io/udacity_FEND_P6-1_neighborhood-map/"
-	},
-	{
-		"folder":"cross",
-		"thumbnail":"cross_thumb.jpg",
-		"title":"Cross",
-		"description":"frogger-ish game",
-		"source":"https://github.com/concoctionfactory/udacity_FEND_P4_arcade-game",
-		"view":"http://concoctionfactory.github.io/udacity_FEND_P4_arcade-game/"
-	}
-
-
+  {
+    "folder": "design-portfolio",
+    "thumbnail": "design-portfolio_thumb.jpg",
+    "title": "Design Portfolio",
+    "description": "my design portfolio",
+    "source": "https://github.com/concoctionfactory/design-portfolio",
+    "view": "https://concoctionfactory.github.io/design-portfolio/"
+  },
+  {
+    "folder": "design-portfolio",
+    "thumbnail": "design-portfolio_thumb.jpg",
+    "title": "Design Portfolio<br>(react version)",
+    "description": "my design portfolio",
+    "source": "https://github.com/concoctionfactory/react-design-portfolio",
+    "view": "https://calm-caverns-71750.herokuapp.com/"
+  },
+  {
+    "folder": "canal-st",
+    "thumbnail": "canal-st_thumb.jpg",
+    "title": "Canal St",
+    "description": "canal st noodle spots",
+    "source": "https://github.com/concoctionfactory/udacity_FEND_P6-1_neighborhood-map",
+    "view": "http://concoctionfactory.github.io/udacity_FEND_P6-1_neighborhood-map/"
+  },
+  {
+    "folder": "cross",
+    "thumbnail": "cross_thumb.jpg",
+    "title": "Cross",
+    "description": "frogger-ish game",
+    "source": "https://github.com/concoctionfactory/udacity_FEND_P4_arcade-game",
+    "view": "http://concoctionfactory.github.io/udacity_FEND_P4_arcade-game/"
+  },
+  {
+    "folder": "my-reads",
+    "thumbnail": "my-reads_thumb.jpg",
+    "title": "My Reads<br>(react)",
+    "description": "reading / want-to read / read",
+    "source": "https://github.com/concoctionfactory/udacity_react_P1_myReads",
+    "view": "https://obscure-taiga-73537.herokuapp.com/"
+  }
 ]
