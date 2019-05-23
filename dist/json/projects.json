@@ -38,5 +38,21 @@
     "description": "reading / want-to read / read",
     "source": "https://github.com/concoctionfactory/udacity_react_P1_myReads",
     "view": "https://obscure-taiga-73537.herokuapp.com/"
+  },
+  {
+    "folder": "vidiy",
+    "thumbnail": "vidiy_thumb.jpg",
+    "title": "Vidiy<br>(react)",
+    "description": "movie app",
+    "source": "https://github.com/concoctionfactory/udacity_react_P1_myReads",
+    "view": "https://shielded-cove-43406.herokuapp.com/movies"
+  },
+  {
+    "folder": "willkie",
+    "thumbnail": "willkie_thumb.jpg",
+    "title": "Willkie<br>(react)",
+    "description": "data viz app",
+    "source": "https://github.com/concoctionfactory/willkie",
+    "view": "https://peaceful-headland-58136.herokuapp.com/clients"
   }
 ]
