@@ -6,7 +6,7 @@
     "description": "Workflow is a web based colaborative management tool.",
     "source": "https://github.com/concoctionfactory/Capstone-2",
     "view": "https://gracious-kowalevski-54e405.netlify.app/",
-    "text": "Workflow is a web based colaborative management tool. Users can try the site in demo mode by using demo mode or sign up and log in users are then directed to the home page where all the boards can be seen, new boards can be added here, click on a board bring user to board page users can new lists and cards on the board page"
+    "text": "node.js, express, psql, react.js, redux, redux-thunk, joi, material-ui"
   },
   {
     "folder": "furbuddy",
@@ -15,53 +15,25 @@
     "description": "Rent a pet from an adoption center. ",
     "source": "https://github.com/concoctionfactory/Capstone1",
     "view": "https://fur-buddy.herokuapp.com/pets",
-    "text": "Rent a pet from an adoption center. Unsure or not ready for full time commitment, rent a pet, and help keep your local adoption centers open.Search by location and by type of pet. Sign in to rent a pet. Create bookings. View current and past booking. Edit or cancel current bookings and leave ratings for past bookings When booking dates that are already booked, dates are disabled in the start and end date picker"
+    "text": "psql, python, flask, jinja, wtforms, flask-sqlalchemy, jquery, bootstrap, jquery-ui"
   },
   {
     "folder": "design-portfolio",
     "thumbnail": "design-portfolio_thumb.jpg",
     "title": "Design Portfolio",
-    "description": "my design portfolio",
+    "description": " A collection of my industrial design work and 3d renderings",
     "source": "https://github.com/concoctionfactory/design-portfolio",
     "view": "https://concoctionfactory.github.io/design-portfolio/",
-    "text": "This is a collection of my industrial design work and 3d renderings. It uses backbone, its reads in data from a json file and use underscore as a templating system."
+    "text": "backbone, underscore"
   },
 
   {
     "folder": "canal-st",
     "thumbnail": "canal-st_thumb.jpg",
-    "title": "Canal St",
-    "description": "canal st noodle spots",
+    "title": "Canal St Noodle",
+    "description": "Where to get noodle in NYC chinatown",
     "source": "https://github.com/concoctionfactory/udacity_FEND_P6-1_neighborhood-map",
     "view": "http://concoctionfactory.github.io/udacity_FEND_P6-1_neighborhood-map/",
-    "text": "A map of the noodle spots in New York Citys chinatown. The app uses the yelp api for the resturant data and as well as google maps api "
-  },
-  {
-    "folder": "cross",
-    "thumbnail": "cross_thumb.jpg",
-    "title": "Cross",
-    "description": "frogger-ish game",
-    "source": "https://github.com/concoctionfactory/udacity_FEND_P4_arcade-game",
-    "view": "http://concoctionfactory.github.io/udacity_FEND_P4_arcade-game/",
-    "text": "This is a game, based on the classic frogger. The game is written in javascript. use the up/down/left/right arrows on the keyboard to navigate the character across the street. Avoid the enemies and pick up the gems. Complete all the levels to win."
-  },
-  {
-    "folder": "my-reads",
-    "thumbnail": "my-reads_thumb.jpg",
-    "title": "My Reads<br>(react)",
-    "description": "reading / want-to read / read",
-    "source": "https://github.com/concoctionfactory/udacity_react_P1_myReads",
-    "view": "https://obscure-taiga-73537.herokuapp.com/",
-    "text": "Track what you reading, what you want to read and what you have already read"
-  },
-
-  {
-    "folder": "willkie",
-    "thumbnail": "willkie_thumb.jpg",
-    "title": "Willkie<br>(react)",
-    "description": "lots of data ",
-    "source": "https://github.com/concoctionfactory/willkie",
-    "view": "https://willke-848fe.web.app/clients",
-    "text": "A project that displays lots of data, testing how the data should be displayed on larger and smaller screens "
+    "text": "yelp api, google maps api "
   }
 ]
