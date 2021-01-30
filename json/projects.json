@@ -4,7 +4,7 @@
     "thumbnail": "workflow_thumb.jpg",
     "title": "Workflow",
     "description": "Workflow is a web based colaborative management tool.",
-    "source": "https://github.com/concoctionfactory/Capstone-2",
+    "source": "https://github.com/davidleecodes/Capstone-2",
     "view": "https://gracious-kowalevski-54e405.netlify.app/",
     "text": "node.js, express, psql, react.js, redux, redux-thunk, joi, material-ui"
   },
@@ -13,7 +13,7 @@
     "thumbnail": "furbuddy_thumb.jpg",
     "title": "FurBuddy",
     "description": "Rent a pet from an adoption center. ",
-    "source": "https://github.com/concoctionfactory/Capstone1",
+    "source": "https://github.com/davidleecodes/Capstone1",
     "view": "https://fur-buddy.herokuapp.com/pets",
     "text": "psql, python, flask, jinja, wtforms, flask-sqlalchemy, jquery, bootstrap, jquery-ui"
   },
@@ -22,8 +22,8 @@
     "thumbnail": "design-portfolio_thumb.jpg",
     "title": "Design Portfolio",
     "description": " A collection of my industrial design work and 3d renderings",
-    "source": "https://github.com/concoctionfactory/design-portfolio",
-    "view": "https://concoctionfactory.github.io/design-portfolio/",
+    "source": "https://github.com/davidleecodes/design-portfolio",
+    "view": "https://davidleecodes.github.io/design-portfolio/",
     "text": "backbone, underscore"
   },
 
@@ -32,8 +32,8 @@
     "thumbnail": "canal-st_thumb.jpg",
     "title": "Canal St Noodle",
     "description": "Where to get noodle in NYC chinatown",
-    "source": "https://github.com/concoctionfactory/udacity_FEND_P6-1_neighborhood-map",
-    "view": "http://concoctionfactory.github.io/udacity_FEND_P6-1_neighborhood-map/",
+    "source": "https://github.com/davidleecodes/udacity_FEND_P6-1_neighborhood-map",
+    "view": "http://davidleecodes.github.io/udacity_FEND_P6-1_neighborhood-map/",
     "text": "yelp api, google maps api "
   }
 ]
