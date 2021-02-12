@@ -3,7 +3,7 @@
     "folder": "workflow",
     "thumbnail": "workflow_thumb.jpg",
     "title": "Workflow",
-    "description": "Workflow is a web based colaborative management tool.",
+    "description": "A simplified project management website inspired by Trello that allows users to see project status at a glance.",
     "source": "https://github.com/davidleecodes/Capstone-2",
     "view": "https://gracious-kowalevski-54e405.netlify.app/",
     "text": "node.js, express, psql, react.js, redux, redux-thunk, joi, material-ui"
@@ -12,7 +12,7 @@
     "folder": "furbuddy",
     "thumbnail": "furbuddy_thumb.jpg",
     "title": "FurBuddy",
-    "description": "Rent a pet from an adoption center. ",
+    "description": "A website that enables users to book time with pets before adopting one. ",
     "source": "https://github.com/davidleecodes/Capstone1",
     "view": "https://fur-buddy.herokuapp.com/pets",
     "text": "psql, python, flask, jinja, wtforms, flask-sqlalchemy, jquery, bootstrap, jquery-ui"
