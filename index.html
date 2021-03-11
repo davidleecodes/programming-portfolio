@@ -40,14 +40,49 @@
             ><i class="fab fa-linkedin"></i
           ></a>
         </div>
+        <a href="images/resume/David G Lee_resume.pdf" target="_blank"
+          >view resume</a
+        >
+        <a href="#contact-form">contact me</a>
         <hr class="margin-adjust" />
       </section>
 
       <section class="thumbnail-container container-container" id="thumbnails">
         <div class="heading">
-          <h2>projects</h2>
+          <h2 class="text-center">PROJECTS</h2>
         </div>
         <hr class="margin-adjust" />
+      </section>
+
+      <section class="container-container">
+        <div class="row card align-items-center" id="contact-form">
+          <div class="card-body col-md-8 col-sm-12">
+            <h2 class="my-5 text-center">CONTACT</h2>
+            <form action="https://formspree.io/f/xleoqnly" method="POST">
+              <div class="mb-3">
+                <label for="contact-name"> Name </label>
+                <input class="form-control" name="contact-name" />
+              </div>
+
+              <div class="mb-3">
+                <label for="contact-email"> Email </label>
+                <input class="form-control" type="email" name="contact-email" />
+              </div>
+
+              <div class="mb-3">
+                <label for="contact-message"> Message </label>
+                <textarea
+                  class="form-control"
+                  name="contact-message"
+                ></textarea>
+              </div>
+
+              <button class="btn btn-dark my-2 mb-5 float-right" type="submit">
+                Send
+              </button>
+            </form>
+          </div>
+        </div>
       </section>
     </main>
 
