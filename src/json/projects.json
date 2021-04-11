@@ -1,14 +1,5 @@
 [
   {
-    "folder": "workflow",
-    "thumbnail": "workflow_thumb.jpg",
-    "title": "Workflow",
-    "description": "A simplified project management website inspired by Trello that allows users to see project status at a glance.",
-    "source": "https://github.com/davidleecodes/Capstone-2",
-    "view": "https://gracious-kowalevski-54e405.netlify.app/",
-    "text": "node.js, express, psql, react.js, redux, redux-thunk, joi, material-ui"
-  },
-  {
     "folder": "furbuddy",
     "thumbnail": "furbuddy_thumb.jpg",
     "title": "FurBuddy",
@@ -18,6 +9,24 @@
     "text": "psql, python, flask, jinja, wtforms, flask-sqlalchemy, jquery, bootstrap, jquery-ui"
   },
   {
+    "folder": "chinatown-cheap-eats",
+    "thumbnail": "chinatown-cheap-eats_thumb.jpg",
+    "title": "ChinaTown Cheap Eats",
+    "description": "Helping people explore NYC Chinatown restaurants on a budget.",
+    "source": "https://github.com/davidleecodes/chinatown-eats",
+    "view": "https://lucid-fermi-523f43.netlify.app/#",
+    "text": "react.js, bootstrap, axios, google-map-react, react-youtube"
+  },
+  {
+    "folder": "workflow",
+    "thumbnail": "workflow_thumb.jpg",
+    "title": "Workflow",
+    "description": "A simplified project management website inspired by Trello that allows users to see project status at a glance.",
+    "source": "https://github.com/davidleecodes/Capstone-2",
+    "view": "https://gracious-kowalevski-54e405.netlify.app/",
+    "text": "node.js, express, psql, react.js, redux, redux-thunk, joi, material-ui"
+  },
+  {
     "folder": "design-portfolio",
     "thumbnail": "design-portfolio_thumb.jpg",
     "title": "Design Portfolio",
@@ -25,15 +34,5 @@
     "source": "https://github.com/davidleecodes/design-portfolio",
     "view": "https://davidleecodes.github.io/design-portfolio/",
     "text": "backbone, underscore"
-  },
-
-  {
-    "folder": "canal-st",
-    "thumbnail": "canal-st_thumb.jpg",
-    "title": "Canal St Noodle",
-    "description": "Where to get noodle in NYC chinatown",
-    "source": "https://github.com/davidleecodes/udacity_FEND_P6-1_neighborhood-map",
-    "view": "http://davidleecodes.github.io/udacity_FEND_P6-1_neighborhood-map/",
-    "text": "yelp api, google maps api "
   }
 ]
