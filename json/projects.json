@@ -1,12 +1,21 @@
 [
   {
+    "folder": "loving-sitters",
+    "thumbnail": "loving-sitters_thumb.jpg",
+    "title": "Loving Sitters",
+    "description": "A marketplace for dog sitter. ",
+    "source": "https://github.com/davidleecodes/team-beagle",
+    "view": "https://60f63f08f0d925000756796c--tender-tereshkova-6d8aaa.netlify.app/",
+    "text": "Contributors: Alex Duria, Wilson Fong, David Lee  <br> Node.js, Express, Mongoose, MongoDB, ReactJS, Material-UI"
+  },
+  {
     "folder": "furbuddy",
     "thumbnail": "furbuddy_thumb.jpg",
     "title": "FurBuddy",
-    "description": "A website that enables users to book time with pets before adopting one. ",
+    "description": "A website that helps people foster a pet. ",
     "source": "https://github.com/davidleecodes/Capstone1",
     "view": "https://fur-buddy.herokuapp.com/pets",
-    "text": "psql, python, flask, jinja, wtforms, flask-sqlalchemy, jquery, bootstrap, jquery-ui"
+    "text": "Flask, PostgreSQL, SQLAlchemy, jinja, JavaScript, jQuery"
   },
   {
     "folder": "chinatown-cheap-eats",
@@ -15,16 +24,16 @@
     "description": "Helping people explore NYC Chinatown restaurants on a budget.",
     "source": "https://github.com/davidleecodes/chinatown-eats",
     "view": "https://lucid-fermi-523f43.netlify.app/#",
-    "text": "react.js, bootstrap, axios, google-map-react, react-youtube"
+    "text": "ReactJS, Bootstrap, Google Maps API, YouTube API"
   },
   {
     "folder": "workflow",
     "thumbnail": "workflow_thumb.jpg",
     "title": "Workflow",
-    "description": "A simplified project management website inspired by Trello that allows users to see project status at a glance.",
+    "description": "Web based collaborative management tool.",
     "source": "https://github.com/davidleecodes/Capstone-2",
     "view": "https://gracious-kowalevski-54e405.netlify.app/",
-    "text": "node.js, express, psql, react.js, redux, redux-thunk, joi, material-ui"
+    "text": "Node.js, Express, PostgreSQL, ReactJS, Redux, Material-UI"
   },
   {
     "folder": "design-portfolio",
