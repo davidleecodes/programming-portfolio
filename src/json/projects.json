@@ -5,7 +5,7 @@
     "title": "Loving Sitter",
     "description": "A marketplace for dog sitter. ",
     "source": "https://github.com/davidleecodes/team-beagle",
-    "view": "https://60f63f08f0d925000756796c--tender-tereshkova-6d8aaa.netlify.app/",
+    "view": "https://tender-tereshkova-6d8aaa.netlify.app/",
     "text": "Contributors: Alex Duria, Wilson Fong, David Lee  <br> Node.js, Express, Mongoose, MongoDB, ReactJS, Material-UI"
   },
   {
@@ -14,7 +14,7 @@
     "title": "FurBuddy",
     "description": "A website that helps people foster a pet. ",
     "source": "https://github.com/davidleecodes/Capstone1",
-    "view": "https://fur-buddy.herokuapp.com/pets",
+    "view": "https://web-production-0170.up.railway.app/pets",
     "text": "Flask, PostgreSQL, SQLAlchemy, jinja, JavaScript, jQuery"
   },
   {
