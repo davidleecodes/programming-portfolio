@@ -4,7 +4,7 @@
   "description": "portfolio site",
   "main": "index.js",
   "dependencies": {
-    "firebase": "^6.0.4",
+    "firebase": "^9.12.0",
     "grunt": "^1.0.1",
     "grunt-contrib-jshint": "^1.0.0"
   },
