@@ -4,7 +4,7 @@
     "thumbnail": "scheduler_thumb.jpg",
     "title": "Scheduler",
     "description": "Generate complicated schedules. ",
-    "source": "https://github.com/davidleecodes/team-beagle",
+    "source": "https://github.com/davidleecodes/scheduler",
     "view": "https://sparkling-jalebi-c82039.netlify.app/",
     "text": " ReactJS, AntD, DayJs, dnd-kit"
   },
