@@ -1,5 +1,14 @@
 [
   {
+    "folder": "scheduler",
+    "thumbnail": "scheduler_thumb.jpg",
+    "title": "Scheduler",
+    "description": "Generate complicated schedules. ",
+    "source": "https://github.com/davidleecodes/team-beagle",
+    "view": "https://tender-tereshkova-6d8aaa.netlify.app/",
+    "text": " ReactJS, AntD, DayJs, dnd-kit"
+  },
+  {
     "folder": "loving-sitter",
     "thumbnail": "loving-sitter_thumb.jpg",
     "title": "Loving Sitter",
